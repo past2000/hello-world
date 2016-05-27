@@ -2,4 +2,4 @@
 learn github
 
 branch one
-add a new branch 
+add2 a new branch 
